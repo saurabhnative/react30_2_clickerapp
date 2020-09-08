@@ -4,6 +4,9 @@ Clicker app using react.js
 ### Objective:
 Build a clicker app using react.js
 
+### Secondary objective
+Clicker value should not go below 0
+
 ### Learnings:
 How to use hooks in react.js
 
