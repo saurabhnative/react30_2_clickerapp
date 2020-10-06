@@ -10,6 +10,11 @@ Clicker value should not go below 0
 ### Learnings:
 How to use hooks in react.js
 
+
+### Note: 
+master branch contains problem statement and `solution` branch contains the implemented solution.
+You can add and submit your own solutions to the problem.
+
 ## Available Scripts
 
 In the project directory, you can run:
