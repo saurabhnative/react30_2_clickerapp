@@ -4,9 +4,6 @@ Clicker app using react.js
 ### Objective:
 Build a clicker app using react.js
 
-### Demo:
-<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602056241/Blogimages/Clicker_o7hqyq.gif" height="400" />
-
 ### Secondary objective
 Clicker value should not go below 0
 

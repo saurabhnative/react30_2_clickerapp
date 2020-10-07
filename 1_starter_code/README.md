@@ -4,14 +4,16 @@ Clicker app using react.js
 ### Objective:
 Build a clicker app using react.js
 
-### Demo:
-<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602056241/Blogimages/Clicker_o7hqyq.gif" height="400" />
-
 ### Secondary objective
 Clicker value should not go below 0
 
 ### Learnings:
 How to use hooks in react.js
+
+
+### Note: 
+master branch contains problem statement and `solution` branch contains the implemented solution.
+You can add and submit your own solutions to the problem.
 
 ## Available Scripts
 
