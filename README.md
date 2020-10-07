@@ -10,7 +10,7 @@ Clicker value should not go below 0
 ### Learnings:
 How to use hooks in react.js
 
-## Solution Usage:   
+### Getting Started:   
 Change directory into a solution folder   
 Install dependencies:     
 `yarn install`  
