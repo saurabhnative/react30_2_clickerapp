@@ -10,6 +10,9 @@ Clicker value should not go below 0
 ### Learnings:
 How to use hooks in react.js
 
+### Resource :
+https://dev.to/dan_abramov/making-sense-of-react-hooks-2eib
+
 ### Getting Started:   
 Change directory into a solution folder   
 Install dependencies:     
