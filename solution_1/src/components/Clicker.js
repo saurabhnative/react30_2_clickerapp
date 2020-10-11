@@ -22,7 +22,7 @@ export default function Clicker() {
           </button>
           <button
             className="btn btn-danger w-100"
-            onClick={() => updateClickerValue(clickerValue - 1)}
+            onClick={() => updateClickerValue(Math.max(0,clickerValue - 1))}
           >
             <i className="fa fa-2x fa-minus" />
           </button>
