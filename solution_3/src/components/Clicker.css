@@ -1,0 +1,14 @@
+h3 {
+    padding: 2rem;
+    font-size: xx-large;
+}
+
+button {
+
+}
+
+.counter {
+    border: 1px solid black;
+    width: 200px;
+    text-align: center;
+}
