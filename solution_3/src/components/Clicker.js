@@ -6,9 +6,11 @@ export default function Clicker({ number, addNumber, removeNumber, resetNumber }
     return (
         <div className="counter">
             <h3>{number}</h3>
-            <button onClick={addNumber}>+</button>
-            <button onClick={removeNumber}>-</button>
-            <button onClick={resetNumber}>reset</button>
+            <div className="buttons">
+                <button className="plus" onClick={addNumber}>+</button>
+                <button className="minus" onClick={removeNumber}>-</button>
+                <button className="reset" onClick={resetNumber}>reset</button>
+            </div>
         </div>
     )
 }

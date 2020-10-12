@@ -1,9 +1,10 @@
 .App {
   font-family: sans-serif;
-  text-align: center;
+  
+
 }
 
-.clickerParent {
+/* .clickerParent {
   width: 300px;
   height: 300px;
   margin: 0 auto;
@@ -15,4 +16,4 @@
 
 .clickerButtonContainer {
   height: 100px;
-}
+} */
