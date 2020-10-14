@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ellu-laitinen",
+      "name": "ellu-laitinen",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/59651879?v=4",
+      "profile": "https://github.com/ellu-laitinen",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "react30_2_clickerapp",
+  "projectOwner": "codeclassifiers",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
