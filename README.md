@@ -1,6 +1,6 @@
 # react30_2_clickerapp
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Clicker app using react.js
@@ -50,6 +50,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/ellu-laitinen"><img src="https://avatars1.githubusercontent.com/u/59651879?v=4" width="100px;" alt=""/><br /><sub><b>ellu-laitinen</b></sub></a><br /><a href="https://github.com/codeclassifiers/react30_2_clickerapp/commits?author=ellu-laitinen" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/imakki"><img src="https://avatars0.githubusercontent.com/u/30835936?v=4" width="100px;" alt=""/><br /><sub><b>Ankit Yadav</b></sub></a><br /><a href="https://github.com/codeclassifiers/react30_2_clickerapp/commits?author=imakki" title="Documentation">📖</a></td>
   </tr>
 </table>
 
