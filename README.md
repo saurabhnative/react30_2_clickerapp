@@ -33,9 +33,12 @@ Install dependencies:
 Start the project:  
 `yarn start`
 
-### [Solution 1](https://github.com/codeclassifiers/react30_2_clickerapp/tree/master/1_starter_code):
+### [Solution 1](https://github.com/codeclassifiers/react30_2_clickerapp/tree/master/solution_1):
 
 <img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602056241/Blogimages/Clicker_o7hqyq.gif" height="400" />
+
+### [Solution 3](https://github.com/codeclassifiers/react30_2_clickerapp/tree/master/solution_3)
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602643920/Blogimages/Screenshot_2020-10-14_at_8.06.39_AM_a3zqoc.png" height="400" />
 
 ## Contributors ✨
 
