@@ -1,4 +1,7 @@
 # react30_2_clickerapp
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Clicker app using react.js
 
@@ -33,3 +36,22 @@ Start the project:
 ### [Solution 1](https://github.com/codeclassifiers/react30_2_clickerapp/tree/master/1_starter_code):
 
 <img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1602056241/Blogimages/Clicker_o7hqyq.gif" height="400" />
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/ellu-laitinen"><img src="https://avatars1.githubusercontent.com/u/59651879?v=4" width="100px;" alt=""/><br /><sub><b>ellu-laitinen</b></sub></a><br /><a href="https://github.com/codeclassifiers/react30_2_clickerapp/commits?author=ellu-laitinen" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
