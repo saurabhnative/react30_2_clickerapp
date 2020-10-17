@@ -24,6 +24,7 @@ How to use hooks in react.js
 [8 Awesome React Hooks](https://medium.com/better-programming/8-awesome-react-hooks-2cb31aed4f3d)   
 [How to start React Hooks if you are a beginner](https://medium.com/swlh/how-to-start-with-react-hooks-b8ab723ec048)   
 [React Hooks: How to use useEffect() by Hossein Ahmadi](https://medium.com/javascript-in-plain-english/react-hooks-how-to-use-useeffect-ecea3e90d84f)  
+[Medium article by Saranjeet Singh](https://medium.com/@_sunnygrewal/hooks-in-react-3edfea531739)
 
 ### Getting Started:   
 Change directory into a solution folder   
