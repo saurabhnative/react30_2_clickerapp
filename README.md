@@ -1,6 +1,6 @@
 # react30_2_clickerapp
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Clicker app using react.js
@@ -26,6 +26,9 @@ How to use hooks in react.js
 [React Hooks: How to use useEffect() by Hossein Ahmadi](https://medium.com/javascript-in-plain-english/react-hooks-how-to-use-useeffect-ecea3e90d84f)  
 [Medium article by Saranjeet Singh](https://medium.com/@_sunnygrewal/hooks-in-react-3edfea531739)
 [Medium article on Introduction to React Hooks by Udara Bibile](https://medium.com/@chathuranga94/introduction-to-react-hooks-4694fe2d0fc0)
+[React Hooks by Mattew Holman](https://medium.com/@matthew.holman/react-hooks-usestate-41ff1bf82dd)  
+[An Intro to Advanced React Hooks](https://medium.com/in-the-weeds/an-intro-to-advanced-react-hooks-a8af6397fe28)  
+[Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)  
 
 ### Getting Started:   
 Change directory into a solution folder   
@@ -56,6 +59,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/jagratipatel"><img src="https://avatars1.githubusercontent.com/u/47077847?v=4" width="100px;" alt=""/><br /><sub><b>jagratipatel</b></sub></a><br /><a href="https://github.com/codeclassifiers/react30_2_clickerapp/commits?author=jagratipatel" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/vapx"><img src="https://avatars0.githubusercontent.com/u/44257413?v=4" width="100px;" alt=""/><br /><sub><b>Edmon Garcia</b></sub></a><br /><a href="https://github.com/codeclassifiers/react30_2_clickerapp/commits?author=vapx" title="Documentation">📖</a> <a href="https://github.com/codeclassifiers/react30_2_clickerapp/commits?author=vapx" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/abhinavvv-7"><img src="https://avatars2.githubusercontent.com/u/72988038?v=4" width="100px;" alt=""/><br /><sub><b>abhinavvv-7</b></sub></a><br /><a href="https://github.com/codeclassifiers/react30_2_clickerapp/commits?author=abhinavvv-7" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/omkar669"><img src="https://avatars3.githubusercontent.com/u/46934695?v=4" width="100px;" alt=""/><br /><sub><b>omkar669</b></sub></a><br /><a href="https://github.com/codeclassifiers/react30_2_clickerapp/commits?author=omkar669" title="Documentation">📖</a></td>
   </tr>
 </table>
 
