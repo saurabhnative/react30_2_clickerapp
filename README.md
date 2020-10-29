@@ -1,6 +1,6 @@
 # react30_2_clickerapp
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Clicker app using react.js
@@ -61,6 +61,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/abhinavvv-7"><img src="https://avatars2.githubusercontent.com/u/72988038?v=4" width="100px;" alt=""/><br /><sub><b>abhinavvv-7</b></sub></a><br /><a href="https://github.com/codeclassifiers/react30_2_clickerapp/commits?author=abhinavvv-7" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/omkar669"><img src="https://avatars3.githubusercontent.com/u/46934695?v=4" width="100px;" alt=""/><br /><sub><b>omkar669</b></sub></a><br /><a href="https://github.com/codeclassifiers/react30_2_clickerapp/commits?author=omkar669" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ghostmaulik"><img src="https://avatars1.githubusercontent.com/u/56753665?v=4" width="100px;" alt=""/><br /><sub><b>Maulik Khanna</b></sub></a><br /><a href="https://github.com/codeclassifiers/react30_2_clickerapp/commits?author=ghostmaulik" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/divyxnsh"><img src="https://avatars1.githubusercontent.com/u/58469666?v=4" width="100px;" alt=""/><br /><sub><b>divyxnsh</b></sub></a><br /><a href="https://github.com/codeclassifiers/react30_2_clickerapp/commits?author=divyxnsh" title="Documentation">📖</a></td>
   </tr>
 </table>
 
