@@ -30,6 +30,8 @@ How to use hooks in react.js
 [An Intro to Advanced React Hooks](https://medium.com/in-the-weeds/an-intro-to-advanced-react-hooks-a8af6397fe28)  
 [Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)  
 [React Hooks Tutorial: useState, useEffect, useReducer](https://www.valentinog.com/blog/hooks/)
+
+[React Hooks cheat sheet: Best practices with examples](https://blog.logrocket.com/react-hooks-cheat-sheet-unlock-solutions-to-common-problems-af4caf699e70/)
 ### Getting Started:   
 Change directory into a solution folder   
 Install dependencies:     
