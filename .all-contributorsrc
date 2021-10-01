@@ -77,11 +77,20 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "BIDISHA-CHANDA",
+      "name": "BIDISHA-CHANDA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67823051?v=4",
+      "profile": "https://github.com/BIDISHA-CHANDA",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "react30_2_clickerapp",
-  "projectOwner": "codeclassifiers",
+  "projectOwner": "saurabhnative",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true
