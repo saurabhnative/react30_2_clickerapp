@@ -1,6 +1,6 @@
 # react30_2_clickerapp
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Clicker app using react.js
@@ -68,7 +68,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/divyxnsh"><img src="https://avatars1.githubusercontent.com/u/58469666?v=4?s=100" width="100px;" alt=""/><br /><sub><b>divyxnsh</b></sub></a><br /><a href="https://github.com/saurabhnative/react30_2_clickerapp/commits?author=divyxnsh" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/BIDISHA-CHANDA"><img src="https://avatars.githubusercontent.com/u/67823051?v=4?s=100" width="100px;" alt=""/><br /><sub><b>BIDISHA-CHANDA</b></sub></a><br /><a href="https://github.com/saurabhnative/react30_2_clickerapp/commits?author=BIDISHA-CHANDA" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/ayushi2410"><img src="https://avatars.githubusercontent.com/u/51434799?v=4" width="100px;" alt=""/><br /><sub><b>Ayushi</b></sub></a><br /><a href="https://github.com/saurabhnative/react30_2_clickerapp/commits?author=Ayushi" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/ayushi2410"><img src="https://avatars.githubusercontent.com/u/51434799?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ayushi2410</b></sub></a><br /><a href="https://github.com/saurabhnative/react30_2_clickerapp/commits?author=ayushi2410" title="Documentation">📖</a></td>
   </tr>
 </table>
 
