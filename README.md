@@ -30,7 +30,8 @@ How to use hooks in react.js
 [An Intro to Advanced React Hooks](https://medium.com/in-the-weeds/an-intro-to-advanced-react-hooks-a8af6397fe28)  
 [Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)  
 [React Hooks Tutorial: useState, useEffect, useReducer](https://www.valentinog.com/blog/hooks/)
-
+[Learn react hooks by building notes app](https://flexiple.com/react/react-hooks-learn-by-building-a-notes-app/)
+[Learn react hooks in 2021](https://betterprogramming.pub/learn-react-hooks-in-2021-405061b76c24)
 [React Hooks cheat sheet: Best practices with examples](https://blog.logrocket.com/react-hooks-cheat-sheet-unlock-solutions-to-common-problems-af4caf699e70/)
 ### Getting Started:   
 Change directory into a solution folder   
@@ -67,6 +68,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/divyxnsh"><img src="https://avatars1.githubusercontent.com/u/58469666?v=4?s=100" width="100px;" alt=""/><br /><sub><b>divyxnsh</b></sub></a><br /><a href="https://github.com/saurabhnative/react30_2_clickerapp/commits?author=divyxnsh" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/BIDISHA-CHANDA"><img src="https://avatars.githubusercontent.com/u/67823051?v=4?s=100" width="100px;" alt=""/><br /><sub><b>BIDISHA-CHANDA</b></sub></a><br /><a href="https://github.com/saurabhnative/react30_2_clickerapp/commits?author=BIDISHA-CHANDA" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/ayushi2410"><img src="https://avatars.githubusercontent.com/u/51434799?v=4" width="100px;" alt=""/><br /><sub><b>Ayushi</b></sub></a><br /><a href="https://github.com/saurabhnative/react30_2_clickerapp/commits?author=Ayushi" title="Documentation">📖</a></td>
   </tr>
 </table>
 
